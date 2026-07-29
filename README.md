@@ -17,9 +17,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/kasimdhilawala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kasim-dhila"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kasimdhilawala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/kasimdhilawala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/KASIM-S-DHILA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
