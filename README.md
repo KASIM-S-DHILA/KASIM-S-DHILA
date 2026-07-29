@@ -102,23 +102,6 @@ Mined 15 months of Tally ERP data, applying ABC/XYZ statistical analysis to prio
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kasim-s-dhila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim-s-dhila&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kasim-s-dhila&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kasim-s-dhila&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
