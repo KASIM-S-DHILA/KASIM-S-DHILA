@@ -2,7 +2,7 @@
 <!--  Replace every "kasimdhilawala" below with your GitHub username   -->
 <!--  if it isn't already correct (Ctrl+F / find-and-replace works).  -->
 <!--  This file goes in a repo named EXACTLY your username, e.g.       -->
-<!--  github.com/kasimdhilawala/kasimdhilawala                        -->
+<!--  github.com/kasim-s-dhila/kasim-s-dhila                          -->
 <!-- ================================================================ -->
 
 <div align="center">
@@ -17,9 +17,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/kasim-dhila"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kasimdhilawala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kasimdhilawala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/KASIM-S-DHILA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/kasim-s-dhila"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -63,40 +63,48 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 VaultMind
+### [🔒 VaultMind](http://kasim-s-dhila.github.io/Vault-Mind/)
 **Local-first RAG desktop app**
 Electron · React · TypeScript · Ollama · LanceDB
 
 Privacy-first, on-device RAG over local PDFs/CSVs/Markdown with zero cloud dependency. Full pipeline built end-to-end: chunking, batched embeddings (fastembed), vector search (LanceDB), and streaming LLM inference (Ollama) — hardened with 107 tests across 30 commits.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=flat-square&logo=googlechrome&logoColor=white)](http://kasim-s-dhila.github.io/Vault-Mind/)
+
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Placement Portal V1
+### [🎓 Placement Portal V1](https://placement-portal-application-v1-4syd.onrender.com/)
 **Full-stack placement management system**
 Python · Flask · SQLAlchemy · SQLite
 
 Role-based access control (Student / Company / Admin), drive posting, eligibility rules, resume upload, and applicant shortlisting — built with Blueprint routing and an ORM-backed admin dashboard.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=flat-square&logo=googlechrome&logoColor=white)](https://placement-portal-application-v1-4syd.onrender.com/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Business Data Analysis Template V2
+### [📊 Business Data Analysis Template V2](https://kasim-s-dhila.github.io/Business_Data_Analysis_Template_V2/)
 **Sales intelligence system**
 Excel · HTML · Chart.js
 
 Turned 21 months of ERP data (~1,985 SKUs, 40 product groups) into a 6-sheet analytical pipeline and 3 interactive dashboards for KPIs, item drilldowns, and procurement recommendations.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=flat-square&logo=googlechrome&logoColor=white)](https://kasim-s-dhila.github.io/Business_Data_Analysis_Template_V2/)
+
 </td>
 <td width="50%" valign="top">
 
-### 📦 Business Data Analysis Template V1
+### [📦 Business Data Analysis Template V1](https://kasim-s-dhila.github.io/Business_Data_Analysis_Template_V2/)
 **Inventory optimization via ABC/XYZ analysis**
 Excel
 
 Mined 15 months of Tally ERP data, applying ABC/XYZ statistical analysis to prioritize high-impact SKUs and quantify demand variability.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=flat-square&logo=googlechrome&logoColor=white)](https://kasim-s-dhila.github.io/Business_Data_Analysis_Template_V2/)
 
 </td>
 </tr>
@@ -107,16 +115,16 @@ Mined 15 months of Tally ERP data, applying ABC/XYZ statistical analysis to prio
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KASIM-S-DHILA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KASIM-S-DHILA&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kasim-s-dhila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim-s-dhila&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KASIM-S-DHILA&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kasim-s-dhila&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KASIM-S-DHILA&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kasim-s-dhila&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
 </div>
 
 <br/>
@@ -128,9 +136,9 @@ Mined 15 months of Tally ERP data, applying ABC/XYZ statistical analysis to prio
 <!-- This renders once the snake.yml GitHub Action (included alongside this
      README) has run at least once — see the setup notes below. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasimdhilawala/kasimdhilawala/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasimdhilawala/kasimdhilawala/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/kasimdhilawala/kasimdhilawala/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasim-s-dhila/kasim-s-dhila/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasim-s-dhila/kasim-s-dhila/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/kasim-s-dhila/kasim-s-dhila/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -141,12 +149,12 @@ Mined 15 months of Tally ERP data, applying ABC/XYZ statistical analysis to prio
 
 <div align="center">
 
-<a href="https://linkedin.com/in/kasim-dhila"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kasimdhilawala"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kasimdhilawala@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kasimdhilawala&color=06B6D4&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=kasim-s-dhila&color=06B6D4&style=flat-square&label=Profile+Views)
 
 </div>
 
