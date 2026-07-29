@@ -1,58 +1,153 @@
-# 👋 Hi, I’m Kasim Dhilawala
+<!-- ================================================================ -->
+<!--  Replace every "kasimdhilawala" below with your GitHub username   -->
+<!--  if it isn't already correct (Ctrl+F / find-and-replace works).  -->
+<!--  This file goes in a repo named EXACTLY your username, e.g.       -->
+<!--  github.com/kasimdhilawala/kasimdhilawala                        -->
+<!-- ================================================================ -->
 
-🎓 **BS Data Science & Applications @ IIT Madras**  
-📊 Aspiring **Data Analyst / Data Science Intern**  
-📍 India
+<div align="center">
 
-I work with **business and ERP data** to uncover insights that improve inventory planning, customer analysis, and decision-making. I enjoy converting raw data into clean, structured, and actionable analytics.
+<!-- Animated wave banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Kasim%20Dhilawala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20@%20IIT%20Madras%20|%20GenAI%20%26%20RAG%20Builder&descAlignY=55&descSize=18" alt="header banner"/>
 
----
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+with+AI-assisted+dev+workflows;RAG+%2B+Vector+Search+%2B+Local+LLMs;Electron+%C2%B7+React+%C2%B7+Python+%C2%B7+Flask;From+idea+to+shipped+product+in+days" alt="Typing SVG" />
+</a>
 
-## 🧠 What I Do
+<br/>
 
-- 📈 Analyze business data using **Excel, SQL, and Python**
-- 🧮 Apply **ABC–XYZ analysis** for inventory optimization
-- 🗃️ Work with **ERP (Tally) transactional data**
-- 📊 Build structured reports for operational and customer insights
+<a href="https://linkedin.com/in/kasimdhilawala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kasimdhilawala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/kasimdhilawala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
----
+</div>
 
-## 🛠 Tech Stack
+<br/>
 
-- **Languages:** Python  
-- **Databases:** SQL  
-- **Tools:** Excel, Git, GitHub, VS Code  
+## 👋 About Me
 
----
+- 🎓 Data Science undergrad at **IIT Madras** (CGPA 8.18), Class of 2028
+- ⚡ I move fast from **idea → working product**, usually with AI-assisted coding agents in the loop
+- 🧠 Hands-on with **RAG pipelines, embeddings, vector search, and local LLM inference**
+- 🛠️ Currently building **VaultMind** — a fully local, privacy-first RAG desktop app
+- 📈 Also enjoy turning messy business/ERP data into dashboards that drive real decisions
+- 📫 Reach me at **kasimdhilawala@gmail.com**
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-### 📊 Business Data Analysis (Inventory & Customers)
-- Analyzed **15 months of Tally ERP data**
-- Identified **high-value SKUs, dead stock, and demand variability**
-- Applied **ABC analysis** to reduce holding costs  
-- Used **XYZ analysis** to improve inventory forecasting
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧾 Tally TDL Reporting Plugin
-- Built a **custom Tally (TDL) report**
-- Created *Item-wise Party Sales Reports*
-- Enabled clean **ERP → analytics data export**
-- Extracted structured sales data for reporting and analysis
+### 🔒 VaultMind
+**Local-first RAG desktop app**
+Electron · React · TypeScript · Ollama · LanceDB
 
----
+Privacy-first, on-device RAG over local PDFs/CSVs/Markdown with zero cloud dependency. Full pipeline built end-to-end: chunking, batched embeddings (fastembed), vector search (LanceDB), and streaming LLM inference (Ollama) — hardened with 107 tests across 30 commits.
 
-## 📜 Certifications
+</td>
+<td width="50%" valign="top">
 
-- 🏅 **SQL Basic – HackerRank**
+### 🎓 Placement Portal V1
+**Full-stack placement management system**
+Python · Flask · SQLAlchemy · SQLite
 
----
+Role-based access control (Student / Company / Admin), drive posting, eligibility rules, resume upload, and applicant shortlisting — built with Blueprint routing and an ORM-backed admin dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Business Data Analysis Template V2
+**Sales intelligence system**
+Excel · HTML · Chart.js
+
+Turned 21 months of ERP data (~1,985 SKUs, 40 product groups) into a 6-sheet analytical pipeline and 3 interactive dashboards for KPIs, item drilldowns, and procurement recommendations.
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Business Data Analysis Template V1
+**Inventory optimization via ABC/XYZ analysis**
+Excel
+
+Mined 15 months of Tally ERP data, applying ABC/XYZ statistical analysis to prioritize high-impact SKUs and quantify demand variability.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kasimdhilawala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimdhilawala&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimdhilawala&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kasimdhilawala&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- This renders once the snake.yml GitHub Action (included alongside this
+     README) has run at least once — see the setup notes below. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasimdhilawala/kasimdhilawala/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasimdhilawala/kasimdhilawala/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/kasimdhilawala/kasimdhilawala/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** www.linkedin.com/in/kasim-dhila
-- 💻 **GitHub:** https://github.com/KASIM-S-DHILA
-- 📧 **Email:** kasimdhila80@gmail.com  
+<div align="center">
 
----
+<a href="https://linkedin.com/in/kasim-dhila"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kasimdhilawala@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-⭐ *Open to internships, collaborations, and data-driven projects.*
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kasimdhilawala&color=06B6D4&style=flat-square&label=Profile+Views)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" alt="footer banner"/>
