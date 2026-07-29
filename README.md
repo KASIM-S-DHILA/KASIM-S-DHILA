@@ -107,16 +107,16 @@ Mined 15 months of Tally ERP data, applying ABC/XYZ statistical analysis to prio
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kasimdhilawala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimdhilawala&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KASIM-S-DHILA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KASIM-S-DHILA&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimdhilawala&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KASIM-S-DHILA&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kasimdhilawala&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KASIM-S-DHILA&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
 </div>
 
 <br/>
