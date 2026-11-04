@@ -155,8 +155,13 @@ CGPA 7.68 · Sep 2024 – Sep 2029 (expected)
 
 <div align="center">
 
-![Kasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KASIM-S-DHILA&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASIM-S-DHILA&layout=compact)
+[![Followers](https://img.shields.io/github/followers/KASIM-S-DHILA?style=for-the-badge&logo=github&label=Followers)](https://github.com/KASIM-S-DHILA?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKASIM-S-DHILA)](https://github.com/KASIM-S-DHILA?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=KASIM-S-DHILA&style=for-the-badge&label=Profile%20Views)](https://github.com/KASIM-S-DHILA)
+
+[![Sanchay stars](https://img.shields.io/github/stars/KASIM-S-DHILA/Sanchay-agent?style=flat-square&label=Sanchay%20%E2%AD%90)](https://github.com/KASIM-S-DHILA/Sanchay-agent)
+[![VaultMind stars](https://img.shields.io/github/stars/KASIM-S-DHILA/vaultmind?style=flat-square&label=VaultMind%20%E2%AD%90)](https://github.com/KASIM-S-DHILA/vaultmind)
+[![Last commit](https://img.shields.io/github/last-commit/KASIM-S-DHILA/Sanchay-agent?style=flat-square&label=Last%20commit)](https://github.com/KASIM-S-DHILA/Sanchay-agent/commits)
 
 </div>
 
